@@ -1,5 +1,4 @@
 # dependencies
-/build
 /node_modules
 /.pnp
 /carlos
@@ -7,5 +6,3 @@
 
 # dependencies de desarrollo
 
-/package-lock.json
-hola.json
