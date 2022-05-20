@@ -2,9 +2,10 @@
 /build
 /node_modules
 /.pnp
+/carlos
 .pnp.js
 
 # dependencies de desarrollo
 
-
-
+/package-lock.json
+hola.json
