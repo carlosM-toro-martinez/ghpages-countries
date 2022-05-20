@@ -1,5 +1,4 @@
 # dependencies
-/build
 /node_modules
 /.husky
 /.pnp
