@@ -1,12 +1,10 @@
 # dependencies
 /build
 /node_modules
-/.husky
 /.pnp
 .pnp.js
 
 # dependencies de desarrollo
-commitlint.config.js.
 
 
 
